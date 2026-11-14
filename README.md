@@ -9,8 +9,6 @@
 
 ## About me
 - :page_facing_up: [Portfolio](https://dipinknair.github.io)
-- 🧑🏽‍💻 Looking for Full time opportunities - Graduating in August 2023 - [Resume](https://dipinknair.github.io/resume/)
-- 🎓 M.S in Mechanical Engineering, University of Cincinnati -  [CDS lab](https://www.ceas.uc.edu/research/centers-labs/cooperative-distributed-systems-lab.html)
 - ⚡ Fun fact: I support Liverpool F.C - YNWA
 
 ### Connect with me:
